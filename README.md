@@ -5,8 +5,10 @@
 - 사용 기술: C++, Python, Node.js, SQL, Linux
 
 ### 지금 하고 있는 것
-- 오픈소스 SIEM(Wazuh)으로 홈 SOC 환경을 구축하고 공격 시나리오별 탐지·분석 실습 준비 중
-- 수업 프로젝트를 보안 관점에서 다시 분석해 정리하는 중
+- 정보통신공학과 3학년 2학기 전공 공부
+- 보안쪽 프로젝트 주제 모색중
+- 정보처리기사 + SQLD 준비
+
 
 ### 연락처
-- GitHub: [@song-503](https://github.com/song-503)
+- Email : yeonho0503@naver.com
