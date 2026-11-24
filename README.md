@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @song-503
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 안녕하세요, 보안관제를 목표로 공부하고 있습니다
 
-<!---
-song-503/song-503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 정보통신공학과 3학년
+- 관심 분야: 보안관제(SOC), 침해사고 대응, 로그 분석
+- 사용 기술: C++, Python, Node.js, SQL, Linux
+
+### 지금 하고 있는 것
+- 오픈소스 SIEM(Wazuh)으로 홈 SOC 환경을 구축하고 공격 시나리오별 탐지·분석 실습 준비 중
+- 수업 프로젝트를 보안 관점에서 다시 분석해 정리하는 중
+
+### 연락처
+- GitHub: [@song-503](https://github.com/song-503)
